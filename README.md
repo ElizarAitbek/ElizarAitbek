@@ -9,7 +9,12 @@
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizarAitbek&theme=graywhite)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElizarAitbek&theme=graywhite)
