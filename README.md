@@ -16,5 +16,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?EizarAitbek=daniilshat&theme=solarized_dark)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?EizarAitbek=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
