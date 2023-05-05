@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, I'm Elizar</h1>
 <h3 align="center">Күн сайын адам болууга арaкет жасап жүрөм</h3>
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 
 - 🔭 I’m currently working at [Peaksoft](https://peaksoft.us/)
 
@@ -9,7 +11,6 @@
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
