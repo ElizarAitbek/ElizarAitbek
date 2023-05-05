@@ -8,7 +8,6 @@
 - 💬 Ask me about **ReactJS, JavaScript, TypeScript, next.js**
 
 - 📫 My email **elizar.aitbek@gmail.com**
-![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
