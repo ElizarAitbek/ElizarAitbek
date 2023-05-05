@@ -1,25 +1,6 @@
 <h1 align="center"> Hello, I'm Elizar</h1>
 <h3 align="center">Күн сайын адам болууга арaкет жасап жүрөм</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-        srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: dark)"
-        srcset="
-      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="./github-contribution-grid-snake.svg"
-  />
-</picture>
-
 - 🔭 I’m currently working at [Peaksoft](https://peaksoft.us/)
 
 - 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
