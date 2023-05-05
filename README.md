@@ -9,11 +9,11 @@
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizarAitbek&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElizarAitbek&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElizarAitbek&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElizarAitbek&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElizarAitbek&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizarAitbek&theme=graywhite)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElizarAitbek&theme=graywhite)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElizarAitbek&theme=graywhite)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElizarAitbek&theme=graywhite)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElizarAitbek&theme=graywhite)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
