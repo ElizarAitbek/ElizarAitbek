@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Peaksoft House](https://peaksoft.house/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ElizarAitbek](https://github.com/ElizarAitbek)
+- 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
 
 - 💬 Ask me about **React.Js, JavaScript, TypeScript, Next.Js**
 
