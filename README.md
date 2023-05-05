@@ -9,6 +9,8 @@
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizarAitbek&theme=graywhite)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElizarAitbek&theme=graywhite)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElizarAitbek&theme=graywhite)
