@@ -15,4 +15,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElizarAitbek&theme=graywhite)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElizarAitbek&theme=graywhite)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElizarAitbek)](https://git.io/streak-stats)
