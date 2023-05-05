@@ -9,5 +9,8 @@
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
