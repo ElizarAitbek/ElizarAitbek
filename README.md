@@ -13,4 +13,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElizarAitbek&theme=graywhite)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElizarAitbek&theme=graywhite)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElizarAitbek)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElizarAitbek&border_radius=7&card_width=500)](https://git.io/streak-stats)
