@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
 
-- 💬 Ask me about **ReactJS, JavaScript, TypeScript, next.js**
+- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js, Java**
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
