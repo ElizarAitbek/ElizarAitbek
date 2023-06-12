@@ -7,7 +7,6 @@
 </p>
 
 
-- 🔭 I’m currently working at [Peaksoft](https://peaksoft.us/)
 
 - 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
 
