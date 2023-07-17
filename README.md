@@ -1,13 +1,6 @@
 <h1 align="center"> Hello, I'm Elizar</h1>
 
 
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Frontend+developer-%D0%BC%D0%B8%D0%BD+%D0%B4%D0%B5%D0%BF+%D0%BE%D0%B9%D0%BB%D0%BE%D0%B9%D0%BC" alt="Typing SVG" /></a>
-</p>
-
-
-
 - 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
 
 - 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js, Java**
