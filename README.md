@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Elizar</h1>
+<h1 align="center"> Elizar Aitbek | Forontend Dev</h1>
 
 
 - 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
