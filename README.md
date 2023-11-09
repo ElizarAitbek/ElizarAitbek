@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
 
-- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js, Java**
+- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js**
 
 - 📫 My email **elizar.aitbek@gmail.com**
 
