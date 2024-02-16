@@ -1,11 +1,8 @@
 <h1 align="center"> Elizar Aitbek | Forontend Dev</h1>
 
+- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js, Flutter**
 
-- 👨‍💻 All of my projects you can see at [my repos](https://github.com/ElizarAitbek)
-
-- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js**
-
-- 📫 My email **elizar.aitbek@gmail.com**
+- 📫 Email **elizar.aitbek@gmail.com**
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizarAitbek&theme=graywhite)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElizarAitbek&theme=graywhite)
