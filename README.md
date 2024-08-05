@@ -1,4 +1,4 @@
-<h1 align="center"> Elizar Aitbek | Forontend Dev</h1>
+<h1 align="center"> Elizar Aitbek | Frontend Dev</h1>
 
 - 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js, Flutter**
 
