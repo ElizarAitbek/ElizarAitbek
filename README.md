@@ -1,6 +1,6 @@
 <h1 align="center"> Elizar Aitbek | Frontend Dev</h1>
 
-- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js, Flutter**
+- 💬 I'm interested in **ReactJS, JavaScript, TypeScript, next.js**
 
 - 📫 Email **elizar.aitbek@gmail.com**
 
